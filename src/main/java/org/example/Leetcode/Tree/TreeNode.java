@@ -1,7 +1,5 @@
 package main.java.org.example.Leetcode.Tree;
 
-import org.example.Learning.Trees.Node;
-
 public class TreeNode {
     int val;
     TreeNode left;
